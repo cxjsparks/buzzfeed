@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# Buzzfeed token info
+
+#   "clientID": "tLOgMWgaCurWLomeHdHSFFbQ"
+#   "clientSecret": "rZeGC6nmnzsBcsBZXqIDssaEq_Tab0XmIGZTA4DpxXht01nZCo4f_ZOhHWkW8Gbamzlye9_+5E.5hk4RO3-4NuWmfxOiUXSgW8ZmWrRB+FmZ0RFqymBn_oSqz3Ek8kb5"
+#   "token": "AstraCS:tLOgMWgaCurWLomeHdHSFFbQ:e724f7fac0b1bb78c5eb54e25eeb0712e036b7e324c61d80e3b15ca67a951999"
