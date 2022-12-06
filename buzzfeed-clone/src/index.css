@@ -7,6 +7,7 @@
 body {
     display: flex;
     justify-content: center;
+    background-color: rgb(153, 104, 40);
 }
 
 .app {
@@ -35,28 +36,49 @@ p {
 }
 
 img {
-    width: 25%;
+    width: 75%;
+    margin-top: 30px;
 
 }
 
 .title-block {
-    width: 600px;
-    height: 210px;
-    background-color: rgb(102, 69, 221);
+    width: 400px;
+    height: 175px;
+    background-color: rgb(48, 48, 208);
     border-radius: 15px;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: rbg(255,255,255)
+    color: rgb(135, 231, 164);
+    margin-left: 20%;
 }
 
 .questions-container {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;;
+    justify-content: space-around;
 }
 
 .question-block {
+    width: 286px;
+    overflow: hidden;
+    background-color: rgb(47, 194, 47);
+    border-radius: 15px;
+    box-shadow: rbga(0,0,0,0,0.07) 0 0 0 1px;
+    text-align: center;
+    margin-bottom: 15px;
     border: none;
+    padding: 0;
+
+}
+
+.question-block p {
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
+.question-block a {
+    color: rbg(316, 316, 316);
+    text-decoration: none;
 
 }

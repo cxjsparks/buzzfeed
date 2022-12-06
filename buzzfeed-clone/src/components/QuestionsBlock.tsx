@@ -6,7 +6,7 @@ import QuestionBlock from './QuestionBlock'
 const QuestionsBlock = ({ quizItem} : {quizItem: Content}) => {
 
   return (
-    <>
+    <div className="category">
         <h2 className="title-block" id={String(quizItem.id)}>{quizItem.text}</h2>
         <div className="questions-container">
           {quizItem?.questions.map((question: Question, _index: number) => (
@@ -16,7 +16,7 @@ const QuestionsBlock = ({ quizItem} : {quizItem: Content}) => {
             />
           ))}
         </div>
-    </>
+    </div>
   )
 }
 
