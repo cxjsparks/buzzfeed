@@ -39,7 +39,7 @@
             "questions": [
                 {
                     "text": "Pizza",
-                    "image": "https://images.unsplash.com/photo-1593857389276-7c794900c90f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80",
+                    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
                     "alt": "Photo of Pizza",
                     "credit": "Ivan Torres"
                 },
